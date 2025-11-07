@@ -1,7 +1,7 @@
 # Oi! Meu nome é Heitor Henrique
 ## Mais conhecido por Heitor Henrique HD ou The One Who Theorizes ai pela interwebs.
 
-- **Currículo** 
+### **Currículo** 
 - Tecnico Integrado em Informática para Internet pela UTFPR-CM (3/4)
 <br clear="both">
 
