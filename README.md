@@ -2,7 +2,7 @@
 ## Mais conhecido por Heitor Henrique HD ou The One Who Theorizes ai pela interwebs.
 
 ### **Currículo** 
-- Tecnico Integrado em Informática para Internet pela UTFPR-CM (3/4)
+- Tecnico Integrado em Informática para Internet pela UTFPR-CM (7/8 semestres)
 <br clear="both">
 
 <div align="left">
